@@ -38,4 +38,4 @@ Generate a personal access token at https://www.discogs.com/settings/developers.
 ### Spotify API
 Create a client id at https://developer.spotify.com/dashboard/applications. Replace `client_id` and `client_secret` here: https://github.com/werrpy/music-bb/blob/master/musicbb.py#L66-L68
 
-If you want to use Spotify's tracklist instead of Discog's, change https://github.com/werrpy/music-bb/blob/master/musicbb.py#L117-L120
+If you want to use Spotify's tracklist instead of Discogs', change https://github.com/werrpy/music-bb/blob/master/musicbb.py#L117-L120
