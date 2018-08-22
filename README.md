@@ -32,7 +32,7 @@ Spotify: [url=https://open.spotify.com/album/5dj2UjtSxuKGlb17Bzu1mL]https://open
 Discogs: [url=https://www.discogs.com/release/1368437]https://www.discogs.com/release/1368437[/url]
 ```
 
-#### Discogs API
+### Discogs API
 Generate a personal access token at https://www.discogs.com/settings/developers. Replace `user_token` and set a unique `user_agent` here: https://github.com/werrpy/music-bb/blob/master/musicbb.py#L55-L61
 
 ### Spotify API
