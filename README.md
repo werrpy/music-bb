@@ -34,3 +34,6 @@ Discogs: [url=https://www.discogs.com/release/1368437]https://www.discogs.com/re
 
 #### Discogs API
 Generate a personal access token at https://www.discogs.com/settings/developers. Replace `user_token` and set a unique `user_agent` here: https://github.com/werrpy/music-bb/blob/master/musicbb.py#L55-L61
+
+### Spotify API
+Create a client id at https://developer.spotify.com/dashboard/applications. Replace `client_id` and `client_secret` here: https://github.com/werrpy/music-bb/blob/master/musicbb.py#L66-L68
